@@ -144,6 +144,37 @@ Footnotes will be positioned at the bottom of the slide regardless if they are i
 
 ---
 
+# Credits
+
+- Presentation Template: https://github.com/ciwg/workshop-YYYY-MM-DD-template/
+- Google Fonts: Bitcount and Bitcount Single
+- Fab Futures Microelectronics Course: https://futures.academany.org/classes/microelectronics/
+
+---
+
 class: center, middle
 
 # Thank You!
+
+---
+
+# Example Schematic
+
+```
+                            Solar Panel
+                                |
+                                v
+                     Solar Engine (Capacitor)
+                                |
+                                v
+                        +----------------+
+                        |   Gecko Chip   |
+  Left Photoresistor -> |                | <- Right-Photoresistor 
+                        | Direction +    |
+                        | Gait Control   |
+                        +--------+-------+
+                                |
+                                v
+                            4 Leg
+                            Outputs
+```
