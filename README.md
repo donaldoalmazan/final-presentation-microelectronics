@@ -2,7 +2,7 @@ class: center, middle
 
 # Workshop Title
 
-## **Subtitle: A slide deck template powered by Remark.js and Go**
+## Subtitle: A slide deck template powered by Remark.js and Go
 
 Author: Your Name
 
