@@ -11,13 +11,17 @@
     pre {
       font-size: 12px;
       scrollbar-width: auto;
-      background: #f5f5f5;
+      background: #c5e1d1;
       padding: 6px;
       display: block;
-      max-height: 300px;
+      max-height: 400px;
       overflow-y: auto;
       overflow-x: auto;
       white-space: pre;
+    }
+    
+    pre code {
+      background: transparent !important;
     }
 
     body {
