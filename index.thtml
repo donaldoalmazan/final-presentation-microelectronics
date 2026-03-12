@@ -6,6 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <!-- Remark.js CSS (optional, can be customized) -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/remark/0.14.0/remark.min.css">
+  <link href="https://fonts.googleapis.com/css2?family=Bitcount:wght@400;700&family=Bitcount+Single:wght@400;700&display=swap" rel="stylesheet">
   <style>
     pre {
       font-size: 12px;
@@ -17,6 +18,15 @@
       overflow-y: auto;
       overflow-x: auto;
       white-space: pre;
+    }
+
+    body {
+      font-family: 'Bitcount Single', sans-serif;
+    }
+
+    h1, h2, h3, h4 {
+      font-family: 'Bitcount', sans-serif;
+      font-weight: 300;
     }
 
     table, th, td {
